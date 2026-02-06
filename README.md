@@ -1,4 +1,4 @@
-🚀 Marvel Assessment | End-to-End Data Project (Excel + SQL + Power BI)
+ # End-to-End Data Project (Excel + SQL + Power BI)
 
  I built a complete data workflow starting from raw data to business-ready insights.
 
